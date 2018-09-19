@@ -11,9 +11,9 @@ class Ftp
 {
     public static $initialized = false;
 
-    protected $_hostname  = 'localhost';
-    protected $_username  = '';
-    protected $_password  = '';
+    protected $_hostname  = 'ftpupload.net';
+    protected $_username  = 'epiz_22730342';
+    protected $_password  = 'jander01';
     protected $_port      = 21;
     protected $_timeout   = 90;
     protected $_passive   = true;
